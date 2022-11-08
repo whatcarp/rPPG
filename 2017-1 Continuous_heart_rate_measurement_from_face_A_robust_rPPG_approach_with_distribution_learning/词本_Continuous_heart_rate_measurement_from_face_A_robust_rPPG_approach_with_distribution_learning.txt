@@ -46,3 +46,9 @@ median
 Specifically
 elicitation
 implicit
+multimodal
+oximeter
+sliding
+fluctuation
+inconformity
+mitigate

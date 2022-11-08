@@ -16,6 +16,7 @@ Beat Per Minute  (BPM)   每分钟节拍数
 
 region of interest (ROI)  感兴趣区
 
+multimodal 多模态的
 
 
 Blind signal separation (BSS)：
